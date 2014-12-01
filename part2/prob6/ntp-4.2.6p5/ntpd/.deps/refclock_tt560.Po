@@ -1,0 +1,5 @@
+refclock_tt560.o: refclock_tt560.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

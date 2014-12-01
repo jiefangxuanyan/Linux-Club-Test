@@ -1,0 +1,6 @@
+refclock_ripencc.o: refclock_ripencc.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

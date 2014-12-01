@@ -1,0 +1,6 @@
+refclock_gpsvme.o: refclock_gpsvme.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

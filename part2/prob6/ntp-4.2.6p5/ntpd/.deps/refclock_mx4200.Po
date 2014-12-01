@@ -1,0 +1,6 @@
+refclock_mx4200.o: refclock_mx4200.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
